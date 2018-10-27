@@ -17,7 +17,7 @@ public:
 	Quiz(int i, HINSTANCE hInst)
 	{
 		ID = i;
-
+		;
 		switch (i)
 		{
 		case 1: LoadStringW(hInst, IDS_QUIZ1, quiz, MAX_LOADSTRING); correactAns = 0;
