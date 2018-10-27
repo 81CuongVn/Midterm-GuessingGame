@@ -165,6 +165,7 @@
     <ResourceCompile Include="Midterm-GuessingGame.rc" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="C:\Users\ngank\Desktop\Logo\Arsenal.png" />
     <Image Include="Midterm-GuessingGame.ico" />
     <Image Include="small.ico" />
   </ItemGroup>

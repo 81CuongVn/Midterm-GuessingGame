@@ -48,5 +48,8 @@
     <Image Include="Midterm-GuessingGame.ico">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="C:\Users\ngank\Desktop\Logo\Arsenal.png">
+      <Filter>Source Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>
