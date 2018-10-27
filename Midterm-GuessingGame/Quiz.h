@@ -52,32 +52,4 @@ public:
 			break;
 		}
 	};
-
-	void onDisplayLogos(HWND hwnd)
-	{
-		ULONG_PTR gdiplusToken;
-		PAINTSTRUCT ps;
-		HDC hdc = BeginPaint(hwnd, &ps);
-
-		GdiplusStartupInput gdiplusStartupInput;
-		GdiplusStartup(&gdiplusToken, &gdiplusStartupInput, NULL);
-
-		{/* Scope to ensure Graphics and Image are destructed before GdiplusShutdown */
-
-			Graphics graphics(hdc);
-			Image image(img1);
-			graphics.DrawImage(&image, 90, 180);
-		}
-
-		{/* Scope to ensure Graphics and Image are destructed before GdiplusShutdown */
-
-			Graphics graphics(hdc);
-			Image image(img2);
-			graphics.DrawImage(&image, 394, 180);
-		}
-
-		GdiplusShutdown(gdiplusToken);
-
-		EndPaint(hwnd, &ps);
-	}
 };
