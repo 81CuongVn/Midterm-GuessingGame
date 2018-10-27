@@ -48,8 +48,35 @@
     <Image Include="Midterm-GuessingGame.ico">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="C:\Users\ngank\Desktop\Logo\AC Milan.png">
+      <Filter>Resource Files</Filter>
+    </Image>
     <Image Include="C:\Users\ngank\Desktop\Logo\Arsenal.png">
-      <Filter>Source Files</Filter>
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\ngank\Desktop\Logo\Barcelona.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\ngank\Desktop\Logo\Chelsea.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\ngank\Desktop\Logo\Everton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\ngank\Desktop\Logo\Liverpool.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\ngank\Desktop\Logo\Manchester City.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\ngank\Desktop\Logo\Manchester United.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\ngank\Desktop\Logo\Real Madrid.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\ngank\Desktop\Logo\Southampton.png">
+      <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
 </Project>
