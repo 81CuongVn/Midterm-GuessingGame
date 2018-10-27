@@ -1,7 +1,5 @@
 # Midterm-GuessingGame
 
-# Mini-Game
-
 Guessing Game gồm nhiều quiz về câu lạc bộ bóng đá
 
 ## Luật chơi
