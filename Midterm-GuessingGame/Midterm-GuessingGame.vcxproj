@@ -148,12 +148,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Midterm-GuessingGame.h" />
+    <ClInclude Include="Quiz.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Midterm-GuessingGame.cpp" />
+    <ClCompile Include="Quiz.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
@@ -165,7 +167,16 @@
     <ResourceCompile Include="Midterm-GuessingGame.rc" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="C:\Users\ngank\Desktop\Logo\AC Milan.png" />
     <Image Include="C:\Users\ngank\Desktop\Logo\Arsenal.png" />
+    <Image Include="C:\Users\ngank\Desktop\Logo\Barcelona.png" />
+    <Image Include="C:\Users\ngank\Desktop\Logo\Chelsea.png" />
+    <Image Include="C:\Users\ngank\Desktop\Logo\Everton.png" />
+    <Image Include="C:\Users\ngank\Desktop\Logo\Liverpool.png" />
+    <Image Include="C:\Users\ngank\Desktop\Logo\Manchester City.png" />
+    <Image Include="C:\Users\ngank\Desktop\Logo\Manchester United.png" />
+    <Image Include="C:\Users\ngank\Desktop\Logo\Real Madrid.png" />
+    <Image Include="C:\Users\ngank\Desktop\Logo\Southampton.png" />
     <Image Include="Midterm-GuessingGame.ico" />
     <Image Include="small.ico" />
   </ItemGroup>
