@@ -27,12 +27,18 @@
     <ClInclude Include="Midterm-GuessingGame.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Quiz.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Midterm-GuessingGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
