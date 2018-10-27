@@ -26,3 +26,6 @@ Việc phát sinh câu hỏi ngẫu nhiên không thực sự lý tưởng, trù
 1612291 - Nguyễn Thị Ngân Khánh
 
 [Repo Github](https://github.com/ngankhanh98/Midterm-GuessingGame/)
+
+--
+Don't read this file: quizes.txt
